@@ -1,14 +1,10 @@
-# 1 3D目标检测论文
-## 1.1 纯视觉方案
+# 1 本仓库记录论文阅读及归纳总结
+1 一层以类别分类
 
-### 纯视觉方案论文总结（待添加）
+2 二层为该领域细分支
 
-（1）Towards Better 3D Knowledge Transfer via Masked Image Modeling for Multi-view 3D Understand 
-[paper阅读笔记链接](https://blog.csdn.net/ZhouMachine_learning/article/details/129813148)
-[论文链接](./3DDetection/Towards%20Better%203D%20Knowledge%20Transfer%20via%20Masked%20Image%20Modeling%20for.pdf)
+3 每一个大分支和小分支下有一个总结ppt 记录每一篇论文的创新点和思考做为总览
 
-（2）
+4 小论文的阅读都附带一个txt文档做论文阅读记录
 
-## 1.2 点云方案
 
-## 1.3 融合方案
