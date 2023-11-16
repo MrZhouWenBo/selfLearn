@@ -1,4 +1,4 @@
-# 模型精度优化指南和精度问题查找
+# 1 模型精度优化指南和精度问题查找
 [博客链接](https://blog.csdn.net/wsLJQian/article/details/133674297)<br>
 在RKNN中，逐层分析过程中可能会出现两种错误：quant_error（量化错误）和runtime_error（运行时错误）。
 ```
@@ -13,3 +13,8 @@ runtime_error（运行时错误）：这种错误通常发生在模型推理的�
     硬件兼容性问题：模型可能不兼容当前硬件平台，导致运行时错误。
 当出现运行时错误时，通常需要检查输入数据、模型配置、硬件平台等因素，以确定并解决问题。
 ```
+
+# 2 更新库版本
+
+[博客链接](https://zhuanlan.zhihu.com/p/590368969) <br>
+1 参考 step3: 更新板子的rknn_server和librknnrt.so
