@@ -1,3 +1,0 @@
-/media/jose/31c0898d-65db-4216-a49b-632493cb9388/learnSaveCode/selfLearn/09_工程积累/01_高性能计算/openMP/build/CMakeFiles/demo.dir
-/media/jose/31c0898d-65db-4216-a49b-632493cb9388/learnSaveCode/selfLearn/09_工程积累/01_高性能计算/openMP/build/CMakeFiles/edit_cache.dir
-/media/jose/31c0898d-65db-4216-a49b-632493cb9388/learnSaveCode/selfLearn/09_工程积累/01_高性能计算/openMP/build/CMakeFiles/rebuild_cache.dir
